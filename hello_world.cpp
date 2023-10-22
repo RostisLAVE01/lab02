@@ -4,4 +4,4 @@ int main()
 {
 std::cout << "Hello world";
 return 0;
-} //Конец
+} //Люблю девочек с зелёными глазами
